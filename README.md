@@ -1,1 +1,2 @@
-# rust_learn Repo mainly for learning purposes
+# Repo for dumping learning stuff from Rust
+### Material found in https://rust-book.cs.brown.edu/
